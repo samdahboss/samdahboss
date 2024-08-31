@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 - Anything tech-related—I’m always up for a good discussion!
 
 ## 📫 How to reach me:
-- Email: [samuel@example.com](samuelolawumi65@gmail.com)
-- LinkedIn: [Samuel on LinkedIn]([https://www.linkedin.com/in/wumicodes](https://www.linkedin.com/in/WumiCodes))
+- Email: [samuelolawumi65@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/WumiCodes]
 
 ## 😄 Pronouns:
 - He/Him
