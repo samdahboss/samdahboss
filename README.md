@@ -5,6 +5,10 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,stackoverflow,vite,vscode,linkedin,git,github,react,figma&theme=dark)](https://skillicons.dev)
 
+### 📈 GitHub Stats
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samdahboss&show_icons=true&theme=chartreuse-dark&hide_rank=true&count_private=true)](https://github.com/samdahboss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdahboss&layout=compact&langs_count=20&theme=chartreuse-dark)](https://github.com/samdahboss/github-readme-stats)
+
 ## 🔭 I’m currently working on:
 - Building an Online Learning Platform with features like course catalog, video playback, quizzes, user authentication, and progress tracking.
 - Completing tasks for my Internpedia internship, such as creating a product landing page, a basic calculator, and a To-Do List application.
