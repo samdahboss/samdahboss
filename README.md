@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Samuel! 
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a knack for creating visually appealing and user-friendly web applications. Currently, I'm a software engineering student at Mountain Top University, constantly learning and evolving in this ever-changing tech world.
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,figma)](https://skillicons.dev)
 
 ## 🔭 I’m currently working on:
 - Building an Online Learning Platform with features like course catalog, video playback, quizzes, user authentication, and progress tracking.
