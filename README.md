@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 
 ## 🔭 I’m currently working on:
 - Building an Online Learning Platform with features like course catalog, video playback, quizzes, user authentication, and progress tracking.
-- Completing tasks for my Internpedia internship, such as creating a product landing page, a basic calculator, and a To-Do List application.
+- Collaborating with other Developers to build websites at TekkTopia
+- Researching and Brainstorming with other students at MTU STEM community to develop solutions to problems in our immediate community.
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.
