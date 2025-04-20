@@ -53,7 +53,7 @@ const samuel = {
 - Freelance peojects
 
 ## 💬 Ask me about:
-- Front-end development, especially using HTML, CSS, and JavaScript.
+- Front-end development, especially using React, JavaScript or Typescript.
 - My experiences and projects, such as my portfolio website and various web apps.
 - Anything tech-related—I’m always up for a good discussion!
 
