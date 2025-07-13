@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Samuel! 
-Welcome to my corner of GitHub, where creativity meets code! I’m a front-end enthusiast on a mission to build beautiful, interactive web experiences that leave a smile 😊.
+Welcome to my corner of GitHub, where creativity meets code! I’m a Software Engineer on a mission to build helpful software.
 
 
   <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2szcTZ1MjV1cmN1bHpqcnRnaXNidnV5cGhrd3Zrejlsd2Rwc3dkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif"/>
@@ -26,7 +26,7 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a front-end e
 
 ```js
 const samuel = {
-  role: "Frontend Developer",
+  role: "Full-Stack Developer",
   techStack: [
     "HTML5", "CSS3", "JavaScript", "React", "Next.js", "TypeScript", "TailwindCSS",
     "Node.js", "Express"
