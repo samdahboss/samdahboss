@@ -22,6 +22,11 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a Software En
 - 🎨 **Skills**: Frontend Development Expertise with React.js, Next.js and Typescript & Exploring Express.js for Backend Development.
 - 🤝 **Collaboration**: Teamwork at **TekkTopia** and brainstorming at **MTU STEM** to solve community challenges.
 
+## 📫 How to reach me:
+- Email: [samuelolawumi65@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/WumiCodes]
+- Phone Number: +234 70 6809 0383
+
 ## 🛠️ Who am I?
 
 ```js
@@ -39,11 +44,10 @@ const samuel = {
 - Collaborating with other Developers to build websites at TekkTopia
 - Learning as a Fullstack Development intern at Edutams
 - Studying Software Engineering (3rd year) at Mountain Top University
-- Researching and Brainstorming with other students at MTU STEM community to develop solutions to problems in our immediate community.
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.
-- Express.js, Laravel, Vue.js
+- Express.js, Vue.js
 - Backend development to become a full-stack developer.
 - Exploring new front-end technologies to enhance my design and development skills.
 
@@ -52,29 +56,7 @@ const samuel = {
 - Innovative web development projects that push the boundaries of what’s possible.
 - Freelance peojects
 
-## 💬 Ask me about:
-- Front-end development, especially using React, JavaScript or Typescript.
-- My experiences and projects, such as my portfolio website and various web apps.
-- Anything tech-related—I’m always up for a good discussion!
 
-## 🌴 When I’m Not Coding
-
-- 🎚️ **Sound Engineering**  
-  Tinkering with audio mixers and EQs to craft crisp, immersive soundscapes.
-
-- 🏎️ **Car Racing Games**  
-  Hitting the virtual track for high‑speed laps and drifting challenges.
-
-- ♟️ **Playing Chess**  
-  Sharpening my strategic thinking one checkmate at a time.
-
-- **Praying & Reflection**  
-  Taking moments for gratitude and mindfulness to recharge and stay grounded.
-
-## 📫 How to reach me:
-- Email: [samuelolawumi65@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/WumiCodes]
-- Phone Number: +234 70 6809 0383
 
 <div align="center">
 
