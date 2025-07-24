@@ -12,9 +12,6 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a Software En
 ![My Stats](https://github-readme-stats.vercel.app/api?username=samdahboss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdahboss&layout=compact&langs_count=20&theme=vue-dark&hide_border=true)](https://github.com/samdahboss/github-readme-stats)
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samdahboss&theme=vue-dark)](https://git.io/streak-stats)
-
 ## 🌟 Highlights
 
 - 🎓 **Education**: Third‑year Software Engineering student at Mountain Top University.
@@ -27,19 +24,6 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a Software En
 - LinkedIn: [https://www.linkedin.com/in/WumiCodes]
 - Phone Number: +234 70 6809 0383
 
-## 🛠️ Who am I?
-
-```js
-const samuel = {
-  role: "Full-Stack Developer",
-  techStack: [
-    "HTML5", "CSS3", "JavaScript", "React", "Next.js", "TypeScript", "TailwindCSS",
-    "Node.js", "Express"
-  ],
-  currentFocus: "Crafting Real-world solutions for everyday problems, Advanced JS, Backend fundamentals (Laravel & Express)",
-  futureGoals: ["Fullstack Web and Mobile Developer", "Cloud & DevOps mastery"]
-};
-```
 ## 🔭 I’m currently:
 - Collaborating with other Developers to build websites at TekkTopia
 - Learning as a Fullstack Development intern at Edutams
