@@ -6,7 +6,7 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a Software En
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,typescript,js,html,css,tailwind,bootstrap,stackoverflow,vite,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,express,nodejs,typescript,js,html,css,tailwind,bootstrap,laravel,stackoverflow,vite,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=samdahboss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
