@@ -2,9 +2,8 @@
 
 Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stack Developer** and a Software Engineering student on a mission to build helpful, scalable software solutions. Check out my Portfolio Website at: [WumiCodes](https://wumi.codes)
 
-<a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-Software_Engineer-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work - Software Engineer" /></a>
-<a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-Frontend_Developer-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work - Frontend Developer" /></a>
-<a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-FullStack_Engineer-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work - FullStack Engineer" /></a>
+<a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-Software_%7C_Frontend_%7C_FullStack-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work" /></a>
+
 
 
 <p align="center">
