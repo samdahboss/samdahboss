@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Olawumi Samuel! 
 
-Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stack Developer** and a Software Engineering student on a mission to build helpful, scalable software solutions. Check out my Portfolio Website at: ![Wumi.Codes](https://wumi.codes)
+Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stack Developer** and a Software Engineering student on a mission to build helpful, scalable software solutions. Check out my Portfolio Website at: [WumiCodes](https://wumi.codes)
 
 <a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-Software_Engineer-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work" /></a>
 
