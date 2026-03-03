@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Olawumi Samuel! 
+# 👋 Hi there, I'm WumiCodes! 
 
 Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stack Developer** and a Software Engineering student on a mission to build helpful, scalable software solutions. Check out my Portfolio Website at: [WumiCodes](https://wumi.codes)
 
@@ -40,12 +40,6 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stac
 - **My next big role:** Actively interviewing for Full-stack or Frontend Engineering positions.
 - **Freelance clients:** Helping businesses build their digital presence, inventory systems, or SaaS platforms.
 - **Open Source:** Contributing to tools that help other developers build faster.
-
-
-## I’m looking to collaborate on:
-- Open-source projects that align with my skills and interests.
-- Innovative web development projects that push the boundaries of what’s possible.
-- Freelance projects.
 
 ## How to reach me:
 - **Email**: [samuelolawumi65@gmail.com](mailto:samuelolawumi65@gmail.com)
