@@ -5,11 +5,6 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stac
 <a href="https://www.linkedin.com/in/WumiCodes"><img src="https://img.shields.io/badge/Open_to_Work-Software_%7C_Frontend_%7C_FullStack-brightgreen?style=for-the-badge&logo=linkedin" alt="Open to Work" /></a>
 
 
-
-<p align="center">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2szcTZ1MjV1cmN1bHpqcnRnaXNidnV5cGhrd3Zrejlsd2Rwc3dkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" alt="coding gif" width="400" />
-</p>
-
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,next,vue,express,nodejs,typescript,js,html,css,tailwind,bootstrap,laravel,mongodb,mysql,postgres,redux,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
