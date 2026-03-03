@@ -13,12 +13,6 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a **Full-stac
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,next,vue,express,nodejs,typescript,js,html,css,tailwind,bootstrap,laravel,mongodb,mysql,postgres,redux,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samdahboss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdahboss&layout=compact&langs_count=20&theme=vue-dark&hide_border=true" alt="Top Langs" />
-</p>
-
 ## Highlights
 - **Education**: Final-year BSc. Software Engineering student (First Class standing) at Mountain Top University.
 - **Experience**: Full-stack Developer Intern at **Edutams** and Frontend Developer at **TekkTopia Ltd**.
