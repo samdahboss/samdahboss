@@ -1,12 +1,14 @@
-# 👋 Hi there, I'm Samuel Olawumi (WumiCodes)
+# 👋 Hi there, I'm Samuel Olawumi
 
-Backend-focused Software Engineer with hands-on experience building full-stack products with **React, Next.js, Vue, Node.js, Express, and Laravel**. I’m passionate about turning high-fidelity designs into production-ready software and building helpful, scalable systems.
+Software Engineer with hands-on experience building full-stack products with **React, Next.js, Vue, Node.js, Express, and Laravel**. I’m passionate about turning high-fidelity designs into production-ready software and building helpful, scalable systems.
 
 ### Looking for me! 📫
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wumicodes)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wumicodes1)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelolawumi65@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/wumicodes/)
 
 #### Technologies and Stack ⚡️
 
@@ -28,11 +30,6 @@ Backend-focused Software Engineer with hands-on experience building full-stack p
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### Work 💼
-
-- **Current Role**: Software Engineer (Contract) at **TalkuTalku Limited**
-- **Previous Roles**: Frontend Developer at **TekkTopia Ltd** and Full-stack Developer Intern at **Edutams**
-- **Leadership**: Project Director at **ATC MTU** and Techadem Tech Team Lead
 
 #### Profile Visits 🕵️‍♂️
 
@@ -42,10 +39,6 @@ Backend-focused Software Engineer with hands-on experience building full-stack p
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samdahboss&count_private=true&theme=dark)
 
-#### Featured Projects 🚀
-
-- **[Stockeep Inventory Manager](https://stockeep.com)**: Inventory and store management system built with PostgreSQL, React, and Node.js.
-- **[VendorBoost Marketing Platform](https://salesbooster.vercel.app)**: Marketing automation tool built on the MERN stack for small-scale vendors.
 
 #### Education 🎓
 
