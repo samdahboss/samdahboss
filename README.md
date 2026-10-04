@@ -31,15 +31,6 @@ Software Engineer with hands-on experience building full-stack products with **R
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-#### Profile Visits 🕵️‍♂️
-
-![visitors](https://komarev.com/ghpvc/?username=samdahboss&style=for-the-badge)
-
-#### Github Stats 📈
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=samdahboss&count_private=true&theme=dark)
-
-
 #### Education 🎓
 
 BSc. Software Engineering, First Class Honors — Mountain Top University (July 2026)
