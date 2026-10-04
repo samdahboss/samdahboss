@@ -33,4 +33,4 @@ Software Engineer with hands-on experience building full-stack products with **R
 
 #### Education 🎓
 
-BSc. Software Engineering, First Class Honors — Mountain Top University (July 2026)
+BSc. Software Engineering, First Class Honors — Mountain Top University
